@@ -1,0 +1,1 @@
+burpsuite抓包，直接把GET改成POST即可。此题不需要把answer=restful放到下面。

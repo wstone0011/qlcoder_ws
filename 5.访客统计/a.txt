@@ -1,0 +1,1 @@
+cat uv.txt |awk '{print $2}'|sort|uniq |wc -l
